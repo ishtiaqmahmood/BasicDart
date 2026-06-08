@@ -14,7 +14,7 @@ void main() {
   print("Current time: $now");
 
   int a = 10;
-  int b = 20;
+  // int b = 20;
 
   final num = a;
   print("Final num: $num");
